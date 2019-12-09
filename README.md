@@ -7,4 +7,4 @@ Note that latest versions of VS checks trial period length and fires alarm if it
 
 You need VS 2017 to build it. Also you need to start compiled binary as admin.
 
-Tested on VS 2017 15.8.x.
+Tested on VS 2017 15.8.x, 2019 16.3.x.
